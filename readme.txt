@@ -1,6 +1,6 @@
 === Nopkin Wordpress Plugin ===
 Contributors: sangay
-Tags: 
+Tags: Wordpress
 Requires at least: 3.2  
 Tested up to: 3.9  
 License: GPLv2 or later  
