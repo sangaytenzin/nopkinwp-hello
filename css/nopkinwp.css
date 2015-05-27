@@ -1,0 +1,13 @@
+.nopkin_wp_wrapper {
+	border:1px solid #C90;
+	padding:10px;
+	margin:20px 0;
+}
+p.nopkin_wp_text {
+}
+p.nopkin_wp_author {
+	font-size:12px;
+	font-style:italic;
+	color:#666;
+}
+
